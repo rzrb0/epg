@@ -1,0 +1,27 @@
+name: Build
+
+on: workflow_dispatch
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 18
+        cache: 'npm'
+    - run: npm install
+    - run: npm run grab -- --site=guidatv.sky.it --gzip --output data/guide.xml
+    - run: |
+        cd data
+        rm guide.xml
+    - uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: data
+        branch: dev
+        target-folder: output
+        git-config-name: github-actions[bot]
+        git-config-email: github-actions[bot]@users.noreply.github.com
+        commit-message: Upload compressed epg
