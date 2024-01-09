@@ -1,6 +1,10 @@
 name: Build
 
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  schedule:
+    # utc time zone
+    - cron: '30 9 * * *'
 
 jobs:
   main:
@@ -24,5 +28,5 @@ jobs:
         target-folder: output
         git-config-name: github-actions[bot]
         git-config-email: github-actions[bot]@users.noreply.github.com
-        commit-message: Upload compressed epg
+        commit-message: Update archive
         single-commit: true
