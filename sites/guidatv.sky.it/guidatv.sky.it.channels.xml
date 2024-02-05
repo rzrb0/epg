@@ -14,7 +14,7 @@
   <channel site="guidatv.sky.it" lang="it" xmltv_id="" site_id="DTH#6862">NHK World TV HD</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="" site_id="DTH#8336">Sky Crime</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="" site_id="DTH#8453">Sky Atlantic +1</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="" site_id="DTH#9047">Heroes Collection</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="" site_id="DTH#9047">Sky Cinema Collection</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="20HD.it" site_id="DTH#10458">20Mediaset HD</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="ACISportTV.it" site_id="DTH#7587">ACI Sport Tv</channel>
   <channel site="guidatv.sky.it" lang="en" xmltv_id="AlJazeeraEnglishHD.qa" site_id="DTH#5113">Al Jazeera Intl. HD</channel>
@@ -139,13 +139,13 @@
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport10.it" site_id="DTH#8613">Sky Sport</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport11.it" site_id="DTH#615">Sky Sport</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport24.it" site_id="DTH#929">Sky Sport24</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportArena.it" site_id="DTH#7507">Sky Sport Arena</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportArena.it" site_id="DTH#9093">Sky Sport Arena</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportCalcio.it" site_id="DTH#9113">Sky Sport Calcio</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportF1.it" site_id="DTH#9096">Sky Sport F1</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportGolf.it" site_id="DTH#10254">Sky Sport Golf</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportMax.it" site_id="DTH#9103">Sky Sport Max</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportMotoGP.it" site_id="DTH#8434">Sky Sport MotoGP</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportNBA.it" site_id="DTH#8753">Sky Sport NBA</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportNBA.it" site_id="DTH#9116">Sky Sport NBA</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportTennis.it" site_id="DTH#11237">Sky Sport Tennis</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportUno.it" site_id="DTH#8714">Sky Sport Uno</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyTG24PrimoPiano.it" site_id="DTH#6510">TG24PrimoPiano</channel>
