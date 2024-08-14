@@ -93,10 +93,8 @@
   <channel site="guidatv.sky.it" lang="it" xmltv_id="RealTimeHD.it" site_id="DTH#8173">Real Time HD</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="Rete4HD.it" site_id="DTH#10464">Rete 4 HD</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SanMarinoRTV.sm" site_id="DTH#6861">San Marino RTV</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyArteHD.it" site_id="DTH#7767">Sky Arte</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyArteHD.it" site_id="DTH#8473">Sky Arte</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyArtePlus1HD.it" site_id="DTH#11276">Sky Arte +1</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyArtePlus1HD.it" site_id="DTH#11277">Sky Arte +1</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyAtlantic.it" site_id="DTH#9095">Sky Atlantic</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyAtlanticPlus1.it" site_id="DTH#8453">Sky Atlantic +1</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyCinemaAction.it" site_id="DTH#9050">Sky Cinema Action</channel>
@@ -112,29 +110,24 @@
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyCinemaUnoPlus24.it" site_id="DTH#9037">Sky Cinema Uno +24</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyCrime.it" site_id="DTH#8336">Sky Crime</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyDocumentaries.it" site_id="DTH#11239">Sky Documentaries</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyDocumentaries.it" site_id="DTH#11241">Sky Documentaries</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyDocumentariesPlus1.it" site_id="DTH#11240">Sky Documentaries +1</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyDocumentariesPlus1.it" site_id="DTH#11243">Sky Documentaries +1</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyInvestigation.it" site_id="DTH#11246">Sky Investigation</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyInvestigationPlus1.it" site_id="DTH#11238">Sky Investigation +1 HD</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyMeteo24.it" site_id="DTH#321">Sky Meteo24</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyNature.it" site_id="DTH#11242">Sky Nature</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyNature.it" site_id="DTH#11245">Sky Nature</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySerie.it" site_id="DTH#11244">Sky Serie</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySeriePlus1.it" site_id="DTH#11247">Sky Serie +1</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport4K.it" site_id="DTH#10013">Sky Sport 4K</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport24.it" site_id="DTH#929">Sky Sport24</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport251.it" site_id="DTH#11497">Sky Sport</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport252.it" site_id="DTH#11496">Sky Sport</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport253.it" site_id="DTH#11494">Sky Sport</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport4K.it" site_id="DTH#10013">Sky Sport 4K</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport254.it" site_id="DTH#11490">Sky Sport</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport255.it" site_id="DTH#11491">Sky Sport</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport256.it" site_id="DTH#11492">Sky Sport</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport257.it" site_id="DTH#11386">Sky Sport</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport258.it" site_id="DTH#9046">Sky Sport</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport259.it" site_id="DTH#8613">Sky Sport</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyCalcio10.it" site_id="DTH#615">Sky Calcio 10</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyCalcio11.it" site_id="DTH#617">Sky Calcio 11</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySport24.it" site_id="DTH#929">Sky Sport24</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportArena.it" site_id="DTH#9093">Sky Sport Arena</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportCalcio.it" site_id="DTH#9113">Sky Sport Calcio</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkySportF1.it" site_id="DTH#9096">Sky Sport F1</channel>
